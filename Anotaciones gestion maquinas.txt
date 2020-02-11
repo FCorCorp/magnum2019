@@ -1,0 +1,7 @@
+Al cerrar la ventana de creacion de maquinas se refresca la vista del arbol y se contraen todos los elementos, pero el elemento seleccionado anteriormente no se deselecciona por lo cual si pongo agregar maquina de nuevo, te dara la opcion de agregarla dentro de ese elemento.
+Al eliminar un objeto como el elemento seleccionado sigue siendo el mismo que se selecciono antes de eliminar, habra error si inmediatamente se agrega una nueva maquina, ya que el objeto padre de esta (el objeto eliminado) no existe
+	Ambos problemas son de la misma naturaleza
+Falta modificacion de maquinas
+
+Optimizar codigo y limpiar
+
